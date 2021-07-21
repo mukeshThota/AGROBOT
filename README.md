@@ -1,1 +1,2 @@
 # AGROBOT
+This project involved the design of an agricultural robot capable of transplanting, seed sowing,and weed removal. A modified rocker bogie suspension system was designed keeping in view the hilly regions the robot needs to traverse.A crank and a rocker mechanism was used for transplantation.A delta robot along with a weed detection algorithm was used for weed removal.A seed metering mechanism in combination with ploughers and levelers was used to sow the seeds at a constant rate.The multibody dynamics of all the mechanism were simulated in MSC ADAMS
